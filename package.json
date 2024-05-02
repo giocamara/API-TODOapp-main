@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index 'mongodb+srv://Giovana226759:giovana@giovana226759.xbcbmls.mongodb.net/?retryWrites=true&w=majority&appName=Giovana226759'"
+    "start": "node index 'mongodb+srv://enzo231693:231693@cluster0.ajeliq2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'"
   },
   "author": "",
   "license": "ISC",
